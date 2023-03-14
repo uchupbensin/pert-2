@@ -1,0 +1,6 @@
+D:\4820\calculator\calculator\bin\Debug\calculator.exe.config
+D:\4820\calculator\calculator\bin\Debug\calculator.exe
+D:\4820\calculator\calculator\bin\Debug\calculator.pdb
+D:\4820\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\4820\calculator\calculator\obj\Debug\calculator.exe
+D:\4820\calculator\calculator\obj\Debug\calculator.pdb

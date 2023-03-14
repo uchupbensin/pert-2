@@ -1,0 +1,6 @@
+D:\4820\Switch\Switch\bin\Debug\Switch.exe.config
+D:\4820\Switch\Switch\bin\Debug\Switch.exe
+D:\4820\Switch\Switch\bin\Debug\Switch.pdb
+D:\4820\Switch\Switch\obj\Debug\Switch.csprojResolveAssemblyReference.cache
+D:\4820\Switch\Switch\obj\Debug\Switch.exe
+D:\4820\Switch\Switch\obj\Debug\Switch.pdb
